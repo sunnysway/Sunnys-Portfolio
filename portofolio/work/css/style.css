@@ -1,0 +1,157 @@
+li.a{
+  float:left;
+  font-family: avenir;
+  letter-spacing: 3px;
+}
+
+li a{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 10px;
+  text-decoration: none;
+  margin: 10px;
+}
+
+ul.a{
+  list-style-type: none;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+  font-family: avenir;
+  letter-spacing: 7px;
+
+}
+
+h1{
+  font-weight: normal;
+  position: absolute;
+  margin-top: 5.5px;
+  left: 40.5%;
+  font-size: 40px;
+  font-family: avenir;
+    letter-spacing: 7px;
+}
+
+h2{
+font-weight: bold;
+font-size: 40px;
+text-align: center;
+padding-top: 165px;
+}
+
+.facebook{
+  margin-top: 7px;
+  padding: 14px 10px;
+  position: absolute;
+  right: 6%;
+}
+
+.linkedin{
+  margin-top: 7px;
+  padding: 14px 10px;
+  position: absolute;
+  right: 8%;
+}
+
+.instagram{
+  margin-top: 7px;
+  padding: 14px 10px;
+  position: absolute;
+  right: 3%;
+}
+.container1{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 8.5%;
+}
+
+
+.billeder{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 60px;
+}
+
+img{
+  max-height: 700px;
+  max-width: 700px;
+  padding: 20px;
+}
+
+.før{
+  flex-basis: 40%
+}
+
+.img-with-text{
+  text-align: center;
+  width: 600px 600px;
+}
+
+.img-with-text img{
+  display: block;
+  margin: 0 auto;
+}
+
+.center{
+  margin: auto;
+  width: 85%;
+}
+
+  .INSTAGRAM{
+    text-align: left;
+    margin-top: 100px;
+  }
+
+  .insta-name{
+    text-align: right;
+    margin-top: -25px;
+  }
+
+  .images{
+    float: left;
+  }
+
+  .insta-img{
+    width: 250px;
+    height: 250px;
+    padding: 23px;
+  }
+
+
+  h4{
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  background-color: black;
+  margin-top: 380px;
+  padding-bottom: 400px;
+  }
+
+  h5{
+    color: grey;
+    font-weight: lighter;
+    font-size: 25px;
+    background-color: white;
+    margin-top: -320px;
+    overflow: visible;
+    position: absolute;
+    left: 32%;
+    padding: 25px 50px;
+  }
+
+  h6{
+    color: white;
+    margin-top: -306.5px;
+    font-weight: normal;
+    font-size: 30px;
+    background-color: black;
+    border: 10px;
+    border-style: outset;
+    border-color: white;
+    overflow: visible;
+    position: absolute;
+    right: 35%
+  }

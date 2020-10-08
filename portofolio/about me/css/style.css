@@ -1,0 +1,181 @@
+li.a{
+  float:left;
+  font-family: avenir;
+  letter-spacing: 3px;
+}
+
+li a{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 10px;
+  text-decoration: none;
+  margin: 10px;
+}
+
+ul.a{
+  list-style-type: none;
+}
+
+h1{
+  font-weight: normal;
+  position: absolute;
+  margin-top: 5.5px;
+  left: 40.5%;
+  font-size: 40px;
+  font-family: avenir;
+    letter-spacing: 7px;
+}
+
+h2{
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
+padding-top: 165px;
+font-family: avenir;
+  letter-spacing: 7px;
+}
+
+h3{
+  font-weight: normal;
+  font-size: 30px;
+  font-family: avenir;
+    letter-spacing: 7px;
+}
+
+p{
+  font-weight: lighter;
+  font-size: 17px;
+  font-family: avenir;
+}
+
+.facebook{
+  margin-top: 7px;
+  padding: 14px 10px;
+  position: absolute;
+  right: 6%;
+}
+
+.linkedin{
+  margin-top: 7px;
+  padding: 14px 10px;
+  position: absolute;
+  right: 8%;
+}
+
+.instagram{
+  margin-top: 7px;
+  padding: 14px 10px;
+  position: absolute;
+  right: 3%;
+}
+.container1{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 8.5%;
+}
+
+img{
+  max-height: 600px;
+  max-width: 550px;
+}
+
+.billedetop{
+flex-basis: 40%;
+}
+
+.tekst1{
+  max-width: 500px;
+  max-height: 500px;
+  line-height: 1.8;
+}
+
+.container2{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 8.5%;
+}
+
+.billedetop2{
+flex-basis: 20%;
+padding-left: 9%;
+}
+
+.tekst2{
+  max-width: 500px;
+  max-height: 500px;
+  line-height: 1.8;
+}
+
+h3{
+font-size: 15px;
+}
+
+
+
+.INSTAGRAM{
+  text-align: left;
+  margin-top: 100px;
+}
+
+.insta-name{
+  text-align: right;
+  margin-top: -25px;
+}
+
+.images{
+  float: left;
+}
+
+.insta-img{
+  width: 250px;
+  height: 250px;
+  padding: 23px;
+}
+
+.center{
+  margin: auto;
+  width: 85%;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: avenir;
+  letter-spacing: 7px;
+}
+
+h4{
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  background-color: black;
+  margin-top: 380px;
+  padding-bottom: 400px;
+}
+
+h5{
+  color: grey;
+  font-weight: lighter;
+  font-size: 25px;
+  background-color: white;
+  margin-top: -320px;
+  overflow: visible;
+  position: absolute;
+  left: 32%;
+  padding: 25px 50px;
+}
+
+h6{
+  color: white;
+  margin-top: -306.5px;
+  font-weight: normal;
+  font-size: 30px;
+  background-color: black;
+  border: 10px;
+  border-style: outset;
+  border-color: white;
+  overflow: visible;
+  position: absolute;
+  right: 35%
+}
